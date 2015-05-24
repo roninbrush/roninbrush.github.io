@@ -1,0 +1,12 @@
+# Site settings
+title: Ronin Brush Freestyle
+email: ryan.fritts@roninbrush.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tactical Aesthetic
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://roninbrush.com" # the base hostname & protocol for your site
+twitter_username: roninbrush
+github_username:  roninbrush
+
+# Build settings
+markdown: kramdown
